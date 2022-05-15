@@ -1,1 +1,40 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.navbar {
+  margin: 0;
+  padding: 0;
+  height: auto;
+}
+
+.navbar__logo {
+  height: 1.5rem;
+}
+
+.navbar__button {
+  background-color: #00000003;
+  border-radius: 28px;
+  border: 1px solid #00000000;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 15px;
+  padding: 16px 34px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #9000f8;
+}
+
+.navbar__button2 {
+  background-color: #c737c7;
+  height: 35px;
+  border-radius: 28px;
+  border: 1px solid #bd33bd;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 14px;
+  text-decoration: none;
+}
+/*# sourceMappingURL=style.css.map */
